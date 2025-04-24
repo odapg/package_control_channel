@@ -548,6 +548,17 @@
 			]
 		},
 		{
+			"name": "LaTeXOutline",
+			"details": "https://github.com/odapg/LaTeXOutline",
+			"labels": ["LaTeX"],
+			"releases": [
+				{
+					"sublime_text": ">=4080",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "LaTeXSmartQuotes",
 			"details": "https://github.com/r-stein/sublime-text-latex-smart-quotes",
 			"labels": ["latex"],
